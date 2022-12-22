@@ -5,6 +5,8 @@ OBS.: Uma versão mais sofisticada do site já foi feita. Essa versão citada é
 
 Link da Versão Oficial no Replit, somente com EJS e sem o login: https://replit.com/join/ykapryopjm-jan457
 
+*Sobre o projeto:
+
 Para executar o site, utilize o terminal integrado VS Code nas seguintes pastas:
 
  -> Backend (Digite "npm start", para ligar o Node Js e conectar ao Mongo DB Atlas);
