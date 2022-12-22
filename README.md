@@ -3,6 +3,8 @@ Projeto Em Construção - N2 (Jean Carlos)
 
 OBS.: Uma versão mais sofisticada do site já foi feita. Essa versão citada é praticamente a oficial, porém, por causa do tempo que tive para fazer e problemas com a integração de bibliotecas do javascript com o Vue.js, decidi voltar para a versão 1, que era bem mais simples, para atender a função do Login.
 
+Link da Versão Oficial no Replit, somente com EJS e sme login: https://replit.com/join/rgvykckzos-jan457
+
 Para executar o site, utilize o terminal integrado VS Code nas seguintes pastas:
 
  -> Backend (Digite "npm start", para ligar o Node Js e conectar ao Mongo DB Atlas);
